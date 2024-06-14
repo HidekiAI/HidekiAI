@@ -6,8 +6,8 @@
 - 👀 The projects you'd find here: I’m interested in writing/working on projects that are somewhat useless (useful TO ME, but not too useful to you) but FUN TO ME...  They are mainly in the languages I fancy at the moment, but at times the language chosen are mainly because of the supported libraries.
 - 💞️ I’m looking to collaborate on any open source libraries that are network-oriented, but am also interested in video game related libraries and projects.
 - 📫 I guess you can reach me on LinkedIn username HidekiAI
-
-
+- 🙈🙉🙊 [hobby based bio](https://codemonkeyninja.github.io/)
+- 🙈🙉🙊 [profession based bio](https://hidekiai.github.io/)
 
 <!---
 HidekiAI/HidekiAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
